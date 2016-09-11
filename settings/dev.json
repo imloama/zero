@@ -1,0 +1,8 @@
+{
+    "Installed":false,
+    "SecretKey": "2016!@#$%^&*()zero",
+    "JWTExpirationDelta": 72,
+    "Port":9000,
+    "LogLevel":"debug",
+    "LogOutPut":"logs/zero.log"
+}
